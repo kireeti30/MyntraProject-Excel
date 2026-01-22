@@ -59,7 +59,3 @@ All methods follow standard spreadsheet practices — simple, reliable, and time
 
 Each step is documented inside the Excel workbook for guided learning.
 
----
-
-## 📂 Repository Structure
-
